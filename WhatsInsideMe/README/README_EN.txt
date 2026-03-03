@@ -33,9 +33,10 @@ How to use:
 Antivirus & safety:
 Some antivirus engines (notably Bkav Pro, SecureAge) may flag this .exe as suspicious. This is a known false positive caused by PyInstaller (the tool used to package the program) producing self‑extracting executables that can resemble malware behaviour. The source code is fully transparent and the program does nothing but read system information.
 
-If you are a paranoid person and don't trust a pre‑built executable - well, just don't download it. You can check the source code, it's right there alongside the program. If you did download and your AV complains, add the file to exceptions or choose "Run anyway".
+If you are a paranoid person and don't trust a pre‑built executable, well just don't download it. You can check the source code, it's right there alongside the program. If you did download and your AV complains, add the file to exceptions or choose "Run anyway".
 
 Version: 26.1.2 (2026)
 Crafted with Python using psutil, gputil, screeninfo, sounddevice, fpdf.
+
 
 Feedback and suggestions: matveybankovproduct@gmail.com
